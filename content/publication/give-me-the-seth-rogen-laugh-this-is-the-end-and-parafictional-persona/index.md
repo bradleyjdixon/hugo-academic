@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - admin
-publication: in *Popular Culture Studies Journal*
+publication: "*Popular Culture Studies Journal*"
 abstract: >-
   This paper applies the theory of parafictional persona to *This
 
