@@ -7,7 +7,7 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Comedy persona and practice
   - Australian cinema
-  - Radioandtelevisioncomedy
+  - Radio and television history
 social:
   - icon: envelope
     icon_pack: fas
