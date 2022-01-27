@@ -39,11 +39,9 @@ highlight_name: true
 ---
 Hello, I’m **Bradley J. Dixon**. I’m a 📝 writer, 🤔 critic, 🎬 film programmer, 🎙 radio host and 🔊 audio producer from Melbourne, Australia.
 
-I’m an editor of the film journal *[Senses of Cinema](http://www.sensesofcinema.com/)*, and was formerly a co-founder and editor of *The Essential*, a two-time AFCA Award winning online publication of film and music criticism which published the work of over a dozen young writers. As a freelance critic, my writing on cinema and pop culture has been published in *Bright Wall/Dark Room*, *Junkee*, *Film Blerg* and elsewhere.
+I’m a former editor of the film journal *[Senses of Cinema](http://www.sensesofcinema.com/)* and co-founder and editor of *The Essential*, a two-time AFCA Award winning online publication of film and music criticism. As a freelance critic, my writing on cinema and pop culture has been published in *Bright Wall/Dark Room*, *Junkee*, *Film Blerg* and elsewhere.
 
-I am a member of the [Australian Film Critics Association](http://www.auscritic.com/) and the committee of the [Melbourne Cinémathèque](http://www.melbournecinematheque.org/), and have served on the feature film programming panels for the [Melbourne International Film Festival](http://www.miff.com.au/) and the [Human Rights Arts & Film Festival (HRAFF)](http://www.hraff.org.au/).
-
-I have also hosted or appeared on podcasts including *The Last Picture Show*, *Radio Video*, and *It Was a Very Good Year*. You can occasionally hear me hosting *The Graveyard Shift* or *Room With a View* on Melbourne’s 3RRR Radio.
+I am a member of the [Australian Film Critics Association](http://www.auscritic.com/) and the committee of the [Melbourne Cinémathèque](http://www.melbournecinematheque.org/), and have served on the feature film programming panels for the [Melbourne International Film Festival](http://www.miff.com.au/) and the [Human Rights Arts & Film Festival (HRAFF)](http://www.hraff.org.au/). You can occasionally hear me hosting *The Graveyard Shift* or *Room With a View* on Melbourne’s 3RRR Radio.
 
 I’m currently a PhD candidate in the School of Media and Communication at RMIT University, and a member of the Screen & Sound Cultures collaborative research group. My research focuses on persona and practice in comedy media.
 
