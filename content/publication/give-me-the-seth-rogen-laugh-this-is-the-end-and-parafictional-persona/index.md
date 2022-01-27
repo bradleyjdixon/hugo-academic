@@ -4,7 +4,7 @@ subtitle: ""
 publication_types:
   - "2"
 authors: []
-publication: Popular Culture Studies Journal
+publication: "*Popular Culture Studies Journal*"
 draft: false
 featured: true
 image:
