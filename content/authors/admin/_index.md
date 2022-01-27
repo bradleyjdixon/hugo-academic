@@ -46,6 +46,6 @@ I am a member of the [Australian Film Critics Association](http://www.auscritic
 
 I’m currently a PhD candidate in the School of Media and Communication at RMIT University, and a member of the Screen & Sound Cultures collaborative research group. My research focuses on persona and practice in comedy media.
 
-I’m available for freelance assignments, panel discussions, festival juries, Q&A moderation, podcast production or film programming opportunities. You can find me on Twitter at [@bradleyjdixon](http://twitter.com/bradleyjdixon) or [get in touch via email](http://www.bradleyjdixon.me/contact/).
+You can find me on Twitter at [@bradleyjdixon](http://twitter.com/bradleyjdixon).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
