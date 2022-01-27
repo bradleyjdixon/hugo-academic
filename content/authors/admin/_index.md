@@ -1,6 +1,7 @@
 ---
 title: Bradley J. Dixon
 role: PhD Candidate
+avatar_filename: img_6170_crop.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
