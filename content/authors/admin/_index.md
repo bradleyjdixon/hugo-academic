@@ -2,8 +2,7 @@
 title: Bradley J. Dixon
 role: PhD Candidate
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research focuses on persona and practice in comedy media.
 interests:
   - Comedy persona and practice
   - Australian cinema
