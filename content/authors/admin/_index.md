@@ -43,7 +43,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hello, I’m **Bradley J. Dixon**. I’m a 📝 writer, 🤔 critic, 🎬 film programmer, 🎙 radio host and 🔊 audio producer from Melbourne, Australia.
+Hello, I’m **Bradley J. Dixon**. I’m a writer, critic, film programmer, radio host and audio producer from Melbourne, Australia.
 
 I’m a former editor of the film journal *[Senses of Cinema](http://www.sensesofcinema.com/)* and co-founder and editor of *The Essential*, a two-time AFCA Award winning online publication of film and music criticism. As a freelance critic, my writing on cinema and pop culture has been published in *Bright Wall/Dark Room*, *Junkee*, *Film Blerg* and elsewhere.
 
