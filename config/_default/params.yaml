@@ -127,3 +127,4 @@ cms:
 icon:
   pack:
     ai: true
+plugins_css: ["custom"]
