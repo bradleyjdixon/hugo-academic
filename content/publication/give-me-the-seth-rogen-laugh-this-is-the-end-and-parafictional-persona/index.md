@@ -14,6 +14,8 @@ abstract: >-
   common occurrence: actors and performers playing themselves in fictional media.
 draft: false
 featured: true
+projects:
+  - parafictional-persona-in-the-comedian-comedy
 image:
   filename: featured
   focal_point: Smart
