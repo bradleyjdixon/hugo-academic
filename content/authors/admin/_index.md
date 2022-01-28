@@ -15,7 +15,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/bradleyjdixon
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com.au/citations?user=Bg005_8AAAAJ
   - icon: academia
     icon_pack: ai
