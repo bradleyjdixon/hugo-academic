@@ -20,6 +20,11 @@ social:
   - icon: academia
     icon_pack: ai
     link: https://rmit.academia.edu/BradleyJDixon
+  - display:
+      header: false
+    link: https://orcid.org/ 0000-0003-2173-3695
+    icon_pack: ai
+    icon: orcid
 organizations:
   - name: RMIT University
     url: https://www.rmit.edu.au
