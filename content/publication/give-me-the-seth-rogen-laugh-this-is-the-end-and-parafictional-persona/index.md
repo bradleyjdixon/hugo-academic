@@ -14,6 +14,9 @@ abstract: >-
   common occurrence: actors and performers playing themselves in fictional media.
 draft: false
 featured: true
+tags:
+  - Parafictional Persona
+  - Comedy
 projects:
   - parafictional-persona-in-the-comedian-comedy
 image:
