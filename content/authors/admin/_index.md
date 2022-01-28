@@ -14,12 +14,12 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/bradleyjdixon
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=Bg005_8AAAAJ
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com.au/citations?user=Bg005_8AAAAJ
+  - icon: academia
+    icon_pack: ai
+    link: https://rmit.academia.edu/BradleyJDixon
 organizations:
   - name: RMIT University
     url: https://www.rmit.edu.au
