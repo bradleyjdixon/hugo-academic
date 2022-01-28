@@ -53,4 +53,4 @@ I’m currently a PhD candidate in the School of Media and Communication at RMIT
 
 You can find me on Twitter at [@bradleyjdixon](http://twitter.com/bradleyjdixon).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Bradley Dixon - Academic CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
