@@ -48,7 +48,9 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Summary
+summary: This paper makes the case that the 1950s sitcom represents the
+  previously unacknowledged beginning of the tradition of parafiction in
+  television, and traces its influence through to some of the most celebrated
+  parafictional television shows of the modern era.
 date: 2021-09-30T01:04:00.000Z
 ---
-Details
