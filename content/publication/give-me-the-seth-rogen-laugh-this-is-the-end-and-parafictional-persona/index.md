@@ -9,9 +9,7 @@ publication: "*Popular Culture Studies Journal*"
 abstract: >-
   This paper applies the theory of parafictional persona to *This
 
-  Is the End*, positioning its ensemble cast as a key example of an increasingly
-
-  common occurrence: actors and performers playing themselves in fictional media.
+  Is the End* (2012), positioning its ensemble cast as a key example of an increasingly common occurrence: actors and performers playing themselves in fictional media.
 draft: false
 featured: true
 tags:
@@ -26,8 +24,6 @@ image:
 summary: >-
   This paper applies the theory of parafictional persona to *This
 
-  Is the End*, positioning its ensemble cast as a key example of an increasingly
-
-  common occurrence: actors and performers playing themselves in fictional media.
+  Is the End* (2012), positioning its ensemble cast as a key example of an increasingly common occurrence: actors and performers playing themselves in fictional media.
 date: 2022-01-27T23:37:55.896Z
 ---
