@@ -31,6 +31,3 @@ summary: >-
   common occurrence: actors and performers playing themselves in fictional media.
 date: 2022-01-27T23:37:55.896Z
 ---
-This paper applies the theory of parafictional persona to *This
-Is the End*, positioning its ensemble cast as a key example of an increasingly
-common occurrence: actors and performers playing themselves in fictional media.
