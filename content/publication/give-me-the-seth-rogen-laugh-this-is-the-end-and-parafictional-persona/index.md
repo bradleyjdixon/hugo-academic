@@ -1,5 +1,5 @@
 ---
-title: '"Give me the Seth Rogen laugh": This Is the End and parafictional persona'
+title: '"Give me the Seth Rogen laugh": *This Is the End* and parafictional persona'
 subtitle: ""
 publication_types:
   - "2"
