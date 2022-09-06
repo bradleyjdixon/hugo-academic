@@ -3,7 +3,7 @@ widget: pages
 widget_id: recent-publications
 headless: true
 weight: 40
-title: Recent Publications
+title: Recent Publications & Conference Papers
 subtitle: ""
 content:
   filters:
