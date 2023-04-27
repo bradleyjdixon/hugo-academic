@@ -3,7 +3,9 @@ title: "Meta humour in the 1950s sitcom: Parafiction and self-reflexivity in The
   George Burns & Gracie Allen Show"
 publication_types:
   - "2"
-authors: []
+authors:
+  - Dixon
+  - B.
 publication: New Review of Film & Television Studies
 abstract: Scholars of television in the United States have noted an undercurrent
   of self-reflexivity in the early sitcom, typically understood as techniques
