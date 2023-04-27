@@ -6,7 +6,7 @@ url_video: ""
 date: 2022-01-27T23:58:53.808Z
 external_link: ""
 url_slides: ""
-title: Parafictional persona in the comedian comedy
+title: Uses of parafictional persona in comedy
 tags:
   - Parafictional Persona
   - Comedy
